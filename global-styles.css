@@ -1,0 +1,31 @@
+.h3-text-styling {
+    color: white;
+    font-size: 35px;
+    line-height: 70px;
+
+}
+
+.under-line-sec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.under-line-sec div {
+    height: 3px;
+    width: 120px;
+    background-color: white;
+}
+
+.h4-global-text {
+    font-size: 20px;
+    line-height: 50px;
+    color: white;
+}
+
+.global-small-text {
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    line-height: 20px;
+    width: 250px;
+}
